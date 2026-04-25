@@ -4,7 +4,7 @@ export const Navbar: Block = {
   slug: 'navbar',
   fields: [
     {
-      name: 'logoText',
+      name: 'logo',
       type: 'text',
     },
     {
